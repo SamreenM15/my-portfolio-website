@@ -1,0 +1,70 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(243, 115, 115);
+    font-family: IBM Plex Sans
+  }
+  
+  li {
+    float:left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(12, 44, 143);
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 19pt;
+  }
+  
+  
+  li a:hover {
+    background-color: tomato;
+    
+  }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  body {
+    background-color: slateblue;
+    font-family: IBM Plex Sans
+ 
+    
+  }
+ 
+ 
+  h1{ font-size: 36pt;
+    border: 1px;
+    display: block;
+    color: rgb(9, 1, 53);
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    background-color: #d1d1d1;
+    border: 2px solid rgb(9, 1, 53);
+    border-radius: 6px;
+    
+ }
+ 
+ img {width: 70%;
+     align-items: center;
+ }
+ 
+ h3 {
+    border: 5px solid rgb(250, 73, 73);
+  }
+ 
+  #greeting {
+ 
+    
+   padding: 6px;
+    background-color: rgb(49, 48, 146);
+    color: white;
+  }

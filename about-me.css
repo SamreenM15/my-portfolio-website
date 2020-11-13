@@ -1,0 +1,58 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#a1c8f5;
+    font-family: IBM Plex Sans
+  }
+  
+  li {
+    float:left;
+  }
+  
+  li a {
+    display: block;
+    color:#3b2c92;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 19pt;
+  }
+  
+  
+  li a:hover {
+    background-color: #f85b46;
+    
+  }
+
+
+  body {
+    background-color: #f8a296;
+    font-family: IBM Plex Sans;
+    font-size: 17pt;
+  }
+    p { border: 2px solid rgb(124, 0, 0);
+        border-radius: 6px;
+        text-align: left;
+
+        
+  border-image-width: 5mm;   }   
+        
+
+  h1{ font-size: 36pt;
+    border: 1px;
+    display: block;
+    color: rgb(102, 0, 0);
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    background-color: #d1d1d1;
+    border: 2px solid rgb(121, 0, 0);
+    border-radius: 6px;
+    
+}
+
+img {width: 40%;
+
+}
